@@ -7,9 +7,9 @@ O projeto foi desenvolvido como trabalho final da disciplina de **Visualização
 
 OBS:Para rodar os scripts vc deve baixar o dataset do kaggle e colocar numa pasta chamada dataset na origem.  
 OBS: Foi usado o Python 3.12.10..  
-OBS: Os modelos devem ser gerados executando cada script por vez que aparecem na documentação abaixo.    
+OBS: Os modelos do YOLO treinados com as 300 imagens anotadas(CVAT) e os resultados estão na pasta \run.    
 OBS: O dataset_yolo para treinar o YOLO e as labels foram disponibilizadas.  
-OBS: Os modelos treinados não foram disponibilizados pois são pesados de mais para o GIT.  
+OBS: Os modelos CNN treinado não foi disponibilizado pois é pesado de mais para o GIT.  
 
 ---
 
