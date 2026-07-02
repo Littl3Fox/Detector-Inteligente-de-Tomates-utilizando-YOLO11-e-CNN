@@ -1,6 +1,6 @@
 
 # 🍅 Detector Inteligente de Tomates utilizando YOLO11 e CNN
-
+Aluno: Artur Romão  
 Sistema de Visão Computacional desenvolvido em **Python** para detectar tomates em imagens e vídeos utilizando **YOLO11** e, posteriormente, classificar automaticamente seu estado de conservação utilizando uma **Rede Neural Convolucional (CNN)**.
 
 O projeto foi desenvolvido como trabalho final da disciplina de **Visualização Computacional**, tendo como principal objetivo aplicar, na prática, todas as etapas de construção de um sistema de Inteligência Artificial: desde a coleta e análise dos dados até o treinamento dos modelos, avaliação, integração e execução em tempo real utilizando webcam.  
