@@ -1,0 +1,7 @@
+path: C:/Projeto Visao Computacional/Codigo/dataset_yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: tomato

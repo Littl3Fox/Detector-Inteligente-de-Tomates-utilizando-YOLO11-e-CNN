@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Modelos
+models/*.pth
+*.pt
+
+# Resultados
+runs/
+
+# Dataset
+dataset/
+imagens_teste/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
