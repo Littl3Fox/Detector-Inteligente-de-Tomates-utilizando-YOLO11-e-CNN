@@ -9,7 +9,7 @@ OBS:Para rodar os scripts vc deve baixar o dataset do kaggle e colocar numa past
 OBS: Foi usado o Python 3.12.10..  
 OBS: Os modelos do YOLO treinados com as 300 imagens anotadas(CVAT) e os resultados estão na pasta \run.    
 OBS: O dataset_yolo para treinar o YOLO e as labels foram disponibilizadas.  
-OBS: Os modelos CNN treinado não foi disponibilizado pois é pesado de mais para o GIT.  
+OBS: Os modelos CNN treinado não foi disponibilizado pois é pesado de mais para o GIT,mas o script foi, com o dataset é só rodar o script de treino do cnn.  
 
 ---
 
